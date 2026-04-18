@@ -1,4 +1,4 @@
-# Amber and Ash Coffee: Business Analysis Report
+# Monday Coffee: Business Analysis Report
 
 ---
 
