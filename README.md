@@ -1,5 +1,5 @@
 # Amber&Ash-coffee-Sales
-# ☕ Amber&Ash Coffee — Sales & Market Expansion Analysis
+# Amber&Ash Coffee — Sales & Market Expansion Analysis
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Window Functions](https://img.shields.io/badge/Window_Functions-CTEs-003B57?style=for-the-badge)
@@ -10,17 +10,17 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
-Monday Coffee, a coffee retailer that began selling its products in 2023, is looking to expand its physical presence by opening new café locations across India. Despite growing online sales, the company lacks clarity on which cities offer the strongest market opportunity — based on actual consumer demand, revenue performance, and cost efficiency.
+Amber & Ash, a coffee retailer that began selling its products in 2023, is looking to expand its physical presence by opening new café locations across India. Despite growing online sales, the company lacks clarity on which cities offer the strongest market opportunity — based on actual consumer demand, revenue performance, and cost efficiency.
 
-The core business challenge is: **which cities should Monday Coffee prioritise for physical expansion, and why?**
+The core business challenge is: **which cities should Amber & Ash Coffee prioritise for physical expansion, and why?**
 
 Without a structured analysis of sales performance, customer behaviour, and market sizing, the expansion strategy risks being driven by assumption rather than data.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. **Quantify the coffee consumer market** in each city based on population estimates.
 2. **Evaluate revenue performance** by city, including quarterly and monthly growth trends.
@@ -31,11 +31,11 @@ Without a structured analysis of sales performance, customer behaviour, and mark
 
 ---
 
-## 🗂️ Project Overview
+##  Project Overview
 
-This project is a business that  is tasked with supporting a strategic expansion decision. Using a relational database of city demographics, product listings, customer records, and transaction data, SQL queries were written to answer 10 key business questions spanning market sizing, revenue analysis, product performance, and cost efficiency.
+This project is a business that  is tasked with supporting a strategic expansion decision. Using a relational database of city demographics, product listings, customer records, and transaction data, SQL queries were written to answer **10** Likely business questions spanning market sizing, revenue analysis, product performance, and cost efficiency.
 
-The analysis culminates in a ranked recommendation of cities for new café openings, backed by quantitative evidence across multiple dimensions : revenue, footfall, consumer potential, and rent economics.
+
 
 ### Database Schema
 
@@ -65,7 +65,7 @@ The project uses four relational tables:
 
 ---
 
-## 💡 Key Findings & Recommendations
+##  Key Findings & Recommendations
 
 Based on the analysis, the following three cities are recommended for physical store expansion:
 
@@ -88,21 +88,12 @@ Based on the analysis, the following three cities are recommended for physical s
 | Tool | Purpose |
 |---|---|
 | **MySQL** | Database creation, data storage, and query execution |
-| **SQL (DDL & DML)** | Schema design, data relationships, and analytical queries |
+| **MySQL (DDL & DML)** | Schema design, data relationships, and analytical queries |
 | **Window Functions** | `DENSE_RANK()`, `LAG()` for ranking and trend analysis |
 | **CTEs** | Complex multi-step query structuring |
 | **Aggregate Functions** | `SUM()`, `COUNT()`, `ROUND()`, `AVG()` for business metrics |
 
 ---
-
-## 📁 Repository Structure
-
-```
-monday-coffee-analysis/
-│
-├── monday_coffee.sql       # Full SQL script (schema + analysis queries)
-└── README.md               # Project documentation
-```
 
 ---
 
