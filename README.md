@@ -249,7 +249,7 @@ Monday Coffee is well-positioned for growth. The data confirms a premium market 
 |Tool                   |Purpose                                                    |
 |-----------------------|-----------------------------------------------------------|
 |**MySQL**              |Database creation, data storage, and query execution       |
-|**MySQL (DDL & DML)**  |Schema design, data relationships, and analytical queries  |
+|**SQL (DDL & DML)**  |Schema design, data relationships, and analytical queries  |
 |**Window Functions**   |`DENSE_RANK()`, `LAG()` for ranking and trend analysis     |
 |**CTEs**               |Complex multi-step query structuring                       |
 |**Aggregate Functions**|`SUM()`, `COUNT()`, `ROUND()`, `AVG()` for business metrics|
