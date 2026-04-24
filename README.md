@@ -19,6 +19,7 @@
 - [Project Objectives](#project-objectives)
 - [Project Overview](#project-overview)
   - [Database Schema](#database-schema)
+  - [View Queries](#view-queries)
   - [Key Questions](#key-questions)
   - [Business Answers](#business-answers)
 - [Key Insights](#2-key-insights)
@@ -96,6 +97,9 @@ The project uses four relational tables:
 |`products` |Product catalogue with pricing                                       |
 |`customers`|Customer records linked to cities                                    |
 |`sales`    |Transaction records with date, product, customer, revenue, and rating|
+
+### View Queries
+[View Queries](Monday%20Coffee.sql)
 
 ### Key Questions
 
